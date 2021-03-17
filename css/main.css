@@ -105,19 +105,19 @@ header .sub_bg{
     height:100%;
 }
 .slide .s1{
-    background-image:url(../img/slide1.jpg);
+    background-image:url(https://ppl159.github.io/sports/img/slide1.jpg);
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
 }
 .slide .s2{
-    background-image:url(../img/slide2.jpg);
+    background-image:url(https://ppl159.github.io/sports/img/slide2.jpg);
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
 }
 .slide .s3{
-    background-image:url(../img/slide1.jpg);
+    background-image:url(https://ppl159.github.io/sports/img/slide1.jpg);
     background-position:center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -238,10 +238,10 @@ header .sub_bg{
     background-repeat:no-repeat;
 }
 .b1 .motion .image{
-    background-image:url('../img/yellowpadding.jpg');
+    background-image:url(https://ppl159.github.io/sports/img/yellowpadding.jpg);
 }
 .b2 .motion .image{
-    background-image:url('../img/babypadding.jpg');
+    background-image:url(https://ppl159.github.io/sports/img/babypadding.jpg);
 }
 /*b1,b2에 마우스오버했을 때 .box나타남*/
 .banner_in > div:hover .box{
@@ -277,7 +277,7 @@ header .sub_bg{
 
 /*item-product lineup*/
 .item{
-    background-image:url('../img/lineupback.jpg');
+    background-image:url(https://ppl159.github.io/sports/img/lineupback.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -402,28 +402,28 @@ header .sub_bg{
     transition-delay:1.5s;
 }
 .swiper3 .item1 .circle{
-    background-image:url(../img/lineup1.png);    
+    background-image:url(https://ppl159.github.io/sports/img/lineup1.png);    
 }
 .swiper3 .item2 .circle{
-    background-image:url(../img/lineup2.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup2.png);
 }
 .swiper3 .item3 .circle{
-    background-image:url(../img/lineup3.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup3.png);
 }
 .swiper3 .item4 .circle{
-    background-image:url(../img/lineup4.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup4.png);
 }
 .swiper3 .item5 .circle{
-    background-image:url(../img/lineup5.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup5.png);
 }
 .swiper3 .item6 .circle{
-    background-image:url(../img/lineup6.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup6.png);
 }
 .swiper3 .item7 .circle{
-    background-image:url(../img/lineup7.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup7.png);
 }
 .swiper3 .item8 .circle{
-    background-image:url(../img/lineup8.png);
+    background-image:url(https://ppl159.github.io/sports/img/lineup8.png);
 }
 
 .swiper3 .item_prev{
@@ -596,9 +596,9 @@ footer .sns .icon{
     header .sub_bg{
         top:7.5vw;
     }
-    .slide .s1{background-image:url(../img/slide1-960.png);}
-    .slide .s2{background-image:url(../img/slide2-960.png);}
-    .slide .s3{background-image:url(../img/slide1-960.png);}
+    .slide .s1{background-image:url(https://ppl159.github.io/sports/img/slide1-960.png);}
+    .slide .s2{background-image:url(https://ppl159.github.io/sports/img/slide2-960.png);}
+    .slide .s3{background-image:url(https://ppl159.github.io/sports/img/slide1-960.png);}
     
     .banner .fp-tableCell > h1{
         font-size:3vw;
@@ -864,10 +864,10 @@ footer .sns .icon{
         background-repeat:no-repeat;
     }
     .b1 .motion .image{
-        background-image:url('../img/yellowpadding.jpg');
+        background-image:url(https://ppl159.github.io/sports/img/yellowpadding.jpg);
     }
     .b2 .motion .image{
-        background-image:url('../img/babypadding2.png');
+        background-image:url(https://ppl159.github.io/sports/img/babypadding2.png);
     }
     .swiper2 .des{
         background-color:#fff;
@@ -1187,10 +1187,10 @@ footer .sns .icon{
         background-repeat:no-repeat;
     }
     .b1 .motion .image{
-        background-image:url('../img/yellowpadding.jpg');
+        background-image:url(https://ppl159.github.io/sports/img/yellowpadding.jpg);
     }
     .b2 .motion .image{
-        background-image:url('../img/babypadding2.png');
+        background-image:url(https://ppl159.github.io/sports/img/babypadding2.png);
     }
     .swiper2 .des{
         background-color:#fff;
